@@ -32,6 +32,8 @@ Ich bin Jahrgang 1964, weiß noch was ein Heimcomputer ist und habe in der Schul
 
 # Software
 
+Eine Übersicht über die von mir verwendeten Programme. Einige kommen aus der Software-Entwicklung und tatsächlich, meine "Werke" werden fast schon programmiert.
+
 + Vim
 + LibreOffice
 + Inkscape
@@ -42,6 +44,8 @@ Ich bin Jahrgang 1964, weiß noch was ein Heimcomputer ist und habe in der Schul
 + Lua
 + Ant
 + Git
++ H5P
++ HUGO
 
 
 
